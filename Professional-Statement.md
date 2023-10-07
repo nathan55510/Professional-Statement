@@ -1,5 +1,3 @@
-# Professional-Statement
-
 # Nathan Fischer
 
 I am an IT professional with 4 years of experience as a systems and network administrator. I am passionate about transitioning into the cybersecurity field and leveraging my technical background to protect organizations.
